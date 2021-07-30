@@ -1,0 +1,33 @@
+{
+    "name": "intervi-mix",
+    "version": "1.0.0",
+    "description": "Laravel Mix extensions set",
+    "main": "src/index.js",
+    "types": "types/index.d.ts",
+    "author": "InteractiveVision Sp. z o.o.",
+    "license": "MIT",
+    "contributors": [
+        "Rafal Krawiec <r.krawiec@interactivevision.pl>"
+    ],
+    "keywords": [
+        "laravel-mix",
+        "svg",
+        "react"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/interviteam/intervi-mix"
+    },
+    "bugs": {
+        "url": "https://github.com/interviteam/intervi-mix/issues"
+    },
+    "homepage": "https://github.com/interviteam/intervi-mix#readme",
+    "devDependencies": {
+        "@svgr/webpack": "^5.5.0",
+        "laravel-mix": "^6.0.6"
+    },
+    "peerDependencies": {
+        "@svgr/webpack": "^5.5.0",
+        "laravel-mix": "^6.0.6"
+    }
+}
