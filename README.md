@@ -1,4 +1,4 @@
-# Intervi Mix
+# @mahpooya/intervi-mix
 
 This package contains laravel mix extensions and in future maybe other mix and webpack related stuff.
 
@@ -63,11 +63,11 @@ Just like default when using mix, above code will result into this when compiled
 #### Installation
 
 ```shell
-yarn add --dev intervi-mix
+yarn add --dev @mahpooya/intervi-mix
 
 # or when using npm
 
-npm install --save-dev intervi-mix
+npm install --save-dev @mahpooya/intervi-mix
 ```
 
 #### Usage
@@ -75,9 +75,9 @@ npm install --save-dev intervi-mix
 Simply require a package in your `webpack.mix.js` file and use a loader extensions like in example below:
 
 ```js
-const mix = require('laravel-mix');
+const mix = require('@mahpooya/laravel-mix');
 
-require('intervi-mix');
+require('@mahpooya/intervi-mix');
 
 // ...
 
