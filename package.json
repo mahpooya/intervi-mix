@@ -1,6 +1,6 @@
 {
   "name": "@mahpooya/intervi-mix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Laravel Mix extensions set (Fork for update dependencies)",
   "main": "src/index.js",
   "types": "types/index.d.ts",
