@@ -1,6 +1,6 @@
 {
   "name": "@mahpooya/intervi-mix",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Laravel Mix extensions set (Fork for update dependencies)",
   "main": "src/index.js",
   "types": "types/index.d.ts",
@@ -26,11 +26,11 @@
   "homepage": "https://github.com/mahpooya/intervi-mix#readme",
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
-    "laravel-mix": "npm:@mahpooya/laravel-mix@^6.0.58"
+    "laravel-mix": "npm:@mahpooya/laravel-mix@^6.0.59"
   },
   "peerDependencies": {
     "@svgr/webpack": "^8.1.0",
-    "laravel-mix": "npm:@mahpooya/laravel-mix@^6.0.58"
+    "laravel-mix": "npm:@mahpooya/laravel-mix@^6.0.59"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

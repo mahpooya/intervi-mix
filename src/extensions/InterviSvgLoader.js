@@ -22,14 +22,6 @@ class InterviSvgLoader
   }
 
   register(config) {
-    //TODO: remove this:
-    console.log("InterviSvgLoader.js > register mahpooya logs");
-    console.log(
-        JSON.stringify({
-            a: 'try to this.config = {...defaults',
-            thisconfig: {...defaults, ...config},
-        }),
-    );
     this.config = {...defaults, ...config};
   }
 
